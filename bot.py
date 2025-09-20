@@ -1,0 +1,1 @@
+print('Bot placeholder - replace with bot.py content from above')
